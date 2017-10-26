@@ -86,3 +86,9 @@ footer {
 	color: #F15B31;
 	font-weight: 700;
 }
+button {
+	font-family: "Raleway", sans-serif;
+	font-size: 18px;
+	color: #FFFFFF;
+	background-color: #00A6B3;
+}
